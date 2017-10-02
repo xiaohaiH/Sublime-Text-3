@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"AutoFileName",
 		"Babel",
 		"BracketHighlighter",
@@ -22,6 +23,7 @@
 		"SublimeLinter",
 		"SublimeServer",
 		"Tagify",
+		"TrailingSpaces",
 		"VueFormatter"
 	]
 }
