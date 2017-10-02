@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Format",
+		"CTags",
+		"Emmet",
+		"jQuery",
+		"JsFormat",
+		"Markdown Preview",
+		"OpenInBrowser",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeServer",
+		"Tagify",
+		"VueFormatter"
+	]
+}
