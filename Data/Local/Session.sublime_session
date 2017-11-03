@@ -7,7 +7,7 @@
 		"/C/Users/Administrator/Desktop"
 	],
 	"last_version": 3143,
-	"last_window_id": 8,
+	"last_window_id": 13,
 	"log_indexing": false,
 	"settings":
 	{
@@ -19,287 +19,33 @@
 				"selected_items":
 				[
 					[
-						"for",
-						"for\tfor (…) {…}"
+						"in",
+						"inline-block"
 					],
 					[
-						"j",
-						"j常用js,css文件/"
+						"has",
+						"hasClass\t.hasClass()"
 					],
 					[
-						"unde",
-						"undefined〔keyword〕"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "Package Control: ",
-				"selected_items":
-				[
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
+						"add",
+						"addClass\t.addClass()"
 					],
 					[
-						"Package Control: Ip",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 540.0
-			},
-			"console":
-			{
-				"height": 130.0,
-				"history":
-				[
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Settings/ModuleManager/EditFormula.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/models/Block.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/models/EditRecordStructure.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/models/MasterDetail.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/models/Module.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/models/RecordStructure.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/views/Detail.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/views/Detail.php.2",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/views/Edit.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/views/EditView.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/views/Edit.php.bak",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/views/MassActionAjax.php",
-				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/CodeFormatter/CodeFormatter.sublime-settings",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Inventory/LineItemsEdit.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Inventory/EditViewBlocks.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/GlobalSearch/SelectedFields.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Events/EditViewBlocks.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/EmailTemplates/EditView.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/CustomLinkButton/EditViewBlocks.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/CustomFormsViews/EditViewBlocks.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/scrp/uitypes/Text.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Potentials/SummaryViewWidgets.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Project/SummaryViewWidgets.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/HelpDesk/SummaryViewWidgets.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/SummaryViewWidgets.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/models/Field.php",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/LayoutEditorMore/EditViewBlocks.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/models/DetailRecordStructure.php",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/LayoutEditorMore/EditViewBlocks.tpl,bak",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/SummaryViewContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/scrp/models/Module.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/scrp/scrp.php",
-				"/D/snow_dev/apps/SalesNow_Origin/languages/zh_cn/snow.php",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Settings/CaseRules/DetailView.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/languages/zh_cn/Settings/ModuleManager.php",
-				"/D/snow_dev/apps/SalesNow_Origin/languages/zh_cn/Settings/CaseRules.php",
-				"/D/snow_dev/apps/SalesNow_Origin/languages/zh_cn/snow.php.bak",
-				"/D/snow_dev/apps/SalesNow_Origin/languages/zh_cn/PDFMaker.php",
-				"/D/snow_dev/apps/SalesNow_Origin/languages/zh_cn/Google.php",
-				"/D/snow_dev/apps/SalesNow_Origin/languages/zh_cn/ParentTabMaintain.php",
-				"/C/Users/Administrator/Desktop/fdafdsafs.html",
-				"/C/Users/Administrator/Desktop/gogo/js/Course.js",
-				"/C/Users/Administrator/Desktop/fdafda.html",
-				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/CodeFormatter/README.md",
-				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
-				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/C/Users/Administrator/Desktop/检测PC移动端进行不同页面跳转.html",
-				"/C/Users/Administrator/Desktop/fdasfdsafsadfs.html",
-				"/D/z-me/salesPlus/WebKit 内核滚动条设置.html",
-				"/C/Users/Administrator/Desktop/项目路径.md",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Quotes/resources/Edit.js",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/resources/DashBoard.js",
-				"/D/snow_dev/apps/SalesNow_Origin/libraries/snownew/css/style.css",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/GlobalSearch/resources/GlobalSearch.js",
-				"/C/Users/Administrator/Desktop/bookmarks_2017_10_13.html",
-				"/C/Users/Administrator/Desktop/fda.html",
-				"/D/snow_dev/apps/SalesNow_Origin/libraries/jquery/gridster/jquery.gridster.min.js",
-				"/D/snow_dev/apps/SalesNow_Origin/libraries/snownew/index.html",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/Header.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Users/Login.Default.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/test/templates_c/vlayout/4d04a69045d24d2c2e6528ba56db1b8dc14f1b10.file.DashBoardContents.tpl.php",
-				"/D/snow_dev/apps/SalesNow_Origin/storage/2016/December/week2/1374_客户1.csv",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/LeftMenu.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/test/templates_c/vlayout/4d745e44a8a392a89d55125d901ef880c3f2db30.file.Header.tpl.php",
-				"/D/snow_dev/apps/SalesNow_Origin.Test/test/templates_c/vlayout/4f7355896d7d8d34507d24bbad832307bf847939.file.Login.Default.tpl.php",
-				"/D/snow_dev/apps/SalesNow_Origin/test/templates_c/vlayout/4f7355896d7d8d34507d24bbad832307bf847939.file.Login.Default.tpl.php",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Users/ForgotPassword.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Quotes/LineItemsContent.tpl",
-				"/C/Users/Administrator/Desktop/dasfdsa.html",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Inventory/LineItemsContent.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Inventory/resources/Edit.js",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/AppStore/Index.tpl",
-				"/C/Users/Administrator/Desktop/fdsafsdaf.html",
-				"/C/Users/Administrator/Desktop/fdsaljfksdla.js",
-				"/C/Users/Administrator/Desktop/fdsafdsa.html",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/AppStore/views/Settings.php",
-				"/D/Documents/WeChat Files/HRxiaohai/Files/Settings.php",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Users/ListViewContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/Settings/RelatedListviewEdits/models/Settings.php",
-				"/C/Users/Administrator/Desktop/各种气泡收集.md",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/MergeRecords.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/FindDuplicateContents.tpl",
-				"/C/Users/Administrator/Desktop/fdasfdsafsdafsa.html",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/SideBarWidget.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/AppStore/resources/style/index.css",
-				"/D/snow_dev/apps/SalesNow_Origin.山石/layouts/vlayout/modules/AppStore/Index.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/Popup.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/libraries/jquery/jquery.min.js",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/PopupFooter.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/PopupContents.tpl",
-				"/C/Users/Administrator/Desktop/user.html",
-				"/D/dvaDemoLogin.php",
-				"/C/Users/Administrator/Desktop/222/commonstyle/asset/js/swiper-3.4.2.jquery.min.js",
-				"/C/Users/Administrator/Desktop/222/find/friend.html",
-				"/C/Users/Administrator/Desktop/222/find/src/js/friend.js",
-				"/C/Users/Administrator/Desktop/222/common/asset/js/swiper-3.4.2.jquery.min.js",
-				"/D/git/salesPlus/study/practice/react/practice/src/App.js",
-				"/D/git/salesPlus/study/study/react/07.设置组件属性的默认值.html",
-				"/D/ajax.js",
-				"/D/test.html",
-				"/D/git/salesPlus/study/practice/redux/reduxManage/src/utils/request.js",
-				"/C/Users/Administrator/Desktop/雪花.html",
-				"/C/Users/Administrator/Desktop/a.html",
-				"/D/down/Sublime-Text-3.back/Data/Packages/User/srcscript-sublime-snippets.sublime-snippet",
-				"/D/down/Sublime-Text-3/Data/Packages/User/srcscript-sublime-snippets.sublime-snippet",
-				"/D/down/Sublime-Text-3/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/down/Sublime-Text-3/Data/Packages/User/Preferences.sublime-settings"
-			],
-			"find":
-			{
-				"height": 40.0
-			},
-			"find_in_files":
-			{
-				"height": 104.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"readonly",
-					"disabled",
-					"input",
-					"foreach",
-					"啊啊啊",
-					"readonly",
-					"format_on_save",
-					"class=\"table table-bordered blockContainer ",
-					"id=\"scrp_editView_fieldName_remark_c_c\"",
-					"LBL_PROCESS_REMARK",
-					"LBL_PROCESS_EMAIL_TEMPLATE",
-					"LBL_PROCESS_ACTIVE",
-					"LBL_PROCESS_MODULE",
-					"LBL_CASERULES_NAME",
-					"fieldLabel medium",
-					"LBL_MODCOMMENTS",
-					"备注",
-					"fieldLabel medium"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": true,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 38.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 120.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 330.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 869.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
+						"va",
+						"var_dump"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"cur",
+						"currentTarget"
+					],
+					[
+						"opt",
+						"option\tTag"
+					],
 					[
 						"max",
 						"maxlength\tAttr"
@@ -322,72 +68,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Calendar.php",
-					"settings":
-					{
-						"buffer_size": 3444,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Import.php",
-					"settings":
-					{
-						"buffer_size": 5532,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions/Login.php",
-					"settings":
-					{
-						"buffer_size": 5400,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "Searching 10501 files for \"always_populate_raw_post_data\"\n\n0 matches\n\nSearching 10501 files for \"always_populate\"\n\n0 matches",
-					"settings":
-					{
-						"buffer_size": 124,
-						"line_ending": "Windows",
-						"name": "Find Results",
-						"scratch": true
-					}
-				},
-				{
-					"file": "/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions/Save.php",
-					"settings":
-					{
-						"buffer_size": 13522,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/z-me/salesPlus/study/study/webpack/practice/webpack.production.config.js",
-					"settings":
-					{
-						"buffer_size": 3700,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "    session: {\n      cookies:\"PHPSESSID=c47gjdklp3dticupu6mksed025\"\n      id:\"49\"\n      name:\"建光 罗\"\n      username:\"rayluo\"\n    }\n",
-					"settings":
-					{
-						"buffer_size": 130,
-						"line_ending": "Windows",
-						"name": "session: {"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -426,19 +106,71 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/D/snow_dev/apps/SalesNow_Origin",
-				"/D/snow_dev/apps/SalesNow_Origin/modules",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/Users",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions"
-			],
 			"file_history":
 			[
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Campaigns/EditViewBlocks.tpl",
+				"/C/Users/Administrator/Desktop/login-肖永涛.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/CustomFormsViews/EditViewBlocks.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Users/EditView.tpl",
+				"/C/Users/Administrator/Desktop/j常用js,css文件/jquery.min.js",
+				"/D/snow_dev/apps/SalesNow_Origin/libraries/jquery/jquery.min.js",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/EmailTemplates/DetailViewHeader.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewHeader.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/dashboards/DashBoardPreProcess.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/IndexViewPreProcess.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewPreProcess.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/AppStore/Index.tpl",
+				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/Administrator/Desktop/各种气泡收集.md",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewBlockView.tpl",
+				"/C/Users/Administrator/Desktop/dasfdsa.html",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/resources/Edit.js",
+				"/C/Users/Administrator/Desktop/test.html",
+				"/D/snow_dev/apps/SalesNow_Origin/include/Webservices/WebserviceField.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/views/Edit.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/views/Edit.php",
+				"/D/snow_dev/apps/SalesNow_Origin/data/CRMEntity.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/CustomFormsViews/views/Edit.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Accounts/views/Detail.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/models/Field.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/views/Popup.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/views/List.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/actions/DeleteAjax.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/models/Record.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/models/Module.php",
+				"/D/snow_dev/apps/SalesNow_Origin/config.inc.php",
+				"/D/snow_dev/apps/SalesNow_Origin/config.db.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Accounts/models/Module.php",
+				"/C/Users/Administrator/Desktop/问题.md",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Documents/resources/List.js",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Accounts/resources/Edit.js",
+				"/C/Users/Administrator/Desktop/fda.html",
+				"/C/Users/Administrator/Desktop/项目路径.md",
 				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Calendar.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Import.php",
-				"/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions/Login.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/Module.php",
+				"/C/Users/Administrator/Desktop/fdafd.html",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/Record.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/DetailView.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/ListView.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/Field.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/EditRecordStructure.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/DetailRecordStructure.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/uitypes/Time.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/uitypes/Picklist.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/uitypes/Multireference.php",
 				"/D/z-me/salesPlus/study/study/webpack/practice/webpack.production.config.js",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions/Save.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Detail.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/uitypes/Datetime.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Edit.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Export.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Import.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/QuickCreateAjax.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/QuickCreateFollowupAjax.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/iCalExport.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions/Login.php",
 				"/D/z-me/salesPlus/study/study/webpack/practice/webpack.config.js",
 				"/D/小程序/middleware/routes/index.js",
 				"/D/z-me/salesPlus/study/study/webpack/practice/dist/static/test.html",
@@ -496,73 +228,14 @@
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewSummaryContents.tpl",
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewSidebar.tpl",
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewShare.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewPreProcess.tpl",
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewPostProcess.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewHeader.tpl",
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewHeaderTitle.tpl",
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewFullContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewBlockView.tpl",
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailView.tpl",
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/CustomLink.tpl",
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/CustomButton.tpl",
 				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/CreateShare.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ContactsSummaryWidgetContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ComposeEmailForm.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/CommonActions.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/CommentThreadList.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/CommentsListIteration.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/CommentsList.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/Comment.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/BasicHeader.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/AssoLists.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/Approval.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/Export.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/FindDuplicateContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/FindDuplicateHeader.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/FindDuplicatePreProcess.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/FindPage.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/Footer.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/GlobalSearch.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/Header.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/HelpDeskSummaryWidgetContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/Index.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/IndexMenuStart.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/IndexViewPreProcess.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/IndexPostProcess.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/JSResources.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/LeftMenu.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/LeftPanelShowHide.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/LineItemTemplate.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListPages.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListShare.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListViewActions.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListViewHeader.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListViewPostProcess.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListViewPreProcess.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListViewSidebar.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListViewContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListViewContents.tpl.bak",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/MainCheungRelatedList.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/MassEditForm.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/MasterEdit.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/MenuBar.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/MergeRecords.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ModalFooter.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ModifyCustomType.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ModifyFooter.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ModifyRecordType.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ModuleSummaryView.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/NoComments.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/OperationNotPermitted.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/Popup.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/PopupContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/PopupFooter.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/PopupSearch.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ProductsSummaryWidgetContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ProjectMilestoneSummaryWidgetContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ProjectTaskSummaryWidgetContents.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/PopHeader.tpl",
-				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/QuickCreate.tpl"
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ContactsSummaryWidgetContents.tpl"
 			],
 			"find":
 			{
@@ -581,6 +254,74 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"window.open(",
+					"Name",
+					"marker",
+					"this",
+					"this.",
+					"pointParam",
+					"point",
+					"lng",
+					"enableHighAccuracy",
+					"class=\"btn btn-success btnEdit creatAndsave\"",
+					"class=\"pull-right\"",
+					"row-fluid",
+					"haidiongxiao",
+					"table table-bordered blockContainer showInlineTable equalSplit detailview-table",
+					"form",
+					"</label>",
+					"div",
+					"related span12 marginLeftZero",
+					"id=\"rightPanel\"",
+					"viod",
+					"'",
+					"tr",
+					"checkoingInBox",
+					"'",
+					"ele",
+					"ctrl",
+					"ctrl+",
+					"rightNextPageBtn",
+					"btn-group",
+					"翻页",
+					"getCenter",
+					"());\n",
+					"   ",
+					"  ",
+					"\t\t",
+					"gc",
+					"keypress",
+					"银行",
+					"{$FIELD_MODEL->getFieldDataType()}",
+					"data-field-type",
+					"summary",
+					"accountField",
+					"priceValue",
+					"price",
+					"提交待审批区分保存新建和保存",
+					"var_dump",
+					"getReferenceList",
+					"var_dump",
+					"getReferenceList",
+					"popupReferenceModule",
+					"getInstance",
+					"unlinkDependencies",
+					"trash",
+					"delete",
+					"snow_Record_Model",
+					"snow_DeleteAjax_Action",
+					"mobileDelete",
+					"trim",
+					"()",
+					"val",
+					"trigger(",
+					"trigger",
+					"element",
+					"openPopUp",
+					"_data",
+					"data",
+					"flag",
+					"echo",
 					"always_populate",
 					"always_populate_raw_post_data",
 					"cookies",
@@ -618,7 +359,473 @@
 				"replace_history":
 				[
 				],
-				"reverse": false,
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 41.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 120.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 350.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 869.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"has",
+						"hasClass\t.hasClass()"
+					],
+					[
+						"add",
+						"addClass\t.addClass()"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"cur",
+						"currentTarget"
+					],
+					[
+						"opt",
+						"option\tTag"
+					],
+					[
+						"max",
+						"maxlength\tAttr"
+					],
+					[
+						"ter",
+						"text-overflow"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"j",
+						"j常用js,css文件/"
+					],
+					[
+						"unde",
+						"undefined〔keyword〕"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Ip",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/snow_dev/apps/SalesNow_Origin",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Workattendancerlue",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Workattendancerlue/resources",
+				"/D/snow_dev/apps/SalesNow_Origin/libraries",
+				"/D/snow_dev/apps/SalesNow_Origin/libraries/jquery"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/Desktop/fdas.fs.html",
+				"/C/Users/Administrator/Desktop/项目路径.md",
+				"/D/z-me/salesPlus/work/6.BMap/Index.js",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Workattendancerlue/EditView.tpl",
+				"/C/Users/Administrator/Desktop/各种气泡收集.md",
+				"/D/z-me/salesPlus/study/flex.md",
+				"/C/Users/Administrator/Desktop/mapTest.html",
+				"/C/Users/Administrator/Desktop/fdasfdsafdsafdsafdsa.html",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/LayoutEditorMore/EditViewBlocks.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/ListViewContents.tpl",
+				"/C/Users/Administrator/Desktop/shan.html",
+				"/D/snow_dev/apps/SalesNow_Origin/chatter/Public/chatter/plugins/pnotify/Index.js",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Settings/ModuleManager/models/Module.php",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Workattendancerlue/ModuleSummaryView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Workattendancerlue/DetailViewSummaryContents.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Workattendancerlue/uitypes/Text.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Settings/ZmoblileCheckingIn/resources/style/index.css",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Settings/ZCheckingIn/resources/style/index.css",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Settings/ZCheckingIn/index.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Settings/ZmoblileCheckingIn/Index.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Campaigns/EditViewBlocks.tpl",
+				"/C/Users/Administrator/Desktop/login-肖永涛.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/CustomFormsViews/EditViewBlocks.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Users/EditView.tpl",
+				"/C/Users/Administrator/Desktop/j常用js,css文件/jquery.min.js",
+				"/D/snow_dev/apps/SalesNow_Origin/libraries/jquery/jquery.min.js",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/EmailTemplates/DetailViewHeader.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewHeader.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/dashboards/DashBoardPreProcess.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/IndexViewPreProcess.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewPreProcess.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/AppStore/Index.tpl",
+				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Program Files (x86)/Sublime-Text-3/Data/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/DetailViewBlockView.tpl",
+				"/C/Users/Administrator/Desktop/dasfdsa.html",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/resources/Edit.js",
+				"/C/Users/Administrator/Desktop/test.html",
+				"/D/snow_dev/apps/SalesNow_Origin/include/Webservices/WebserviceField.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/views/Edit.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/views/Edit.php",
+				"/D/snow_dev/apps/SalesNow_Origin/data/CRMEntity.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/CustomFormsViews/views/Edit.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Accounts/views/Detail.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/LayoutEditorMore/models/Field.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/views/Popup.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/views/List.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/actions/DeleteAjax.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/models/Record.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/snow/models/Module.php",
+				"/D/snow_dev/apps/SalesNow_Origin/config.inc.php",
+				"/D/snow_dev/apps/SalesNow_Origin/config.db.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Accounts/models/Module.php",
+				"/C/Users/Administrator/Desktop/问题.md",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Documents/resources/List.js",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/Accounts/resources/Edit.js",
+				"/C/Users/Administrator/Desktop/fda.html",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Calendar.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/Module.php",
+				"/C/Users/Administrator/Desktop/fdafd.html",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/Record.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/DetailView.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/ListView.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/Field.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/EditRecordStructure.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/models/DetailRecordStructure.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/uitypes/Time.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/uitypes/Picklist.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/uitypes/Multireference.php",
+				"/D/z-me/salesPlus/study/study/webpack/practice/webpack.production.config.js",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions/Save.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Detail.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/uitypes/Datetime.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Edit.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Export.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Import.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/QuickCreateAjax.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/QuickCreateFollowupAjax.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/iCalExport.php",
+				"/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions/Login.php",
+				"/D/z-me/salesPlus/study/study/webpack/practice/webpack.config.js",
+				"/D/小程序/middleware/routes/index.js",
+				"/D/z-me/salesPlus/study/study/webpack/practice/dist/static/test.html",
+				"/D/z-me/salesPlus/study/practice/webpack-autoprefixer-css/webpack.config.js",
+				"/D/z-me/salesPlus/study/practice/webpack/webpack.config.js",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Formula.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/UserRole.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Url.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Time.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/TimeFieldSearchView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Theme.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Text.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/StringDetailView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/String.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/SalutationDetailView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Salutation.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/ReminderDetailView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Reminder.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Region.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Reference.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/RecurrenceDetailView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Recurrence.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/ProductTax.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/PickListFieldSearchView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/PicklistEditList.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Picklist.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/PhoneDetailView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Phone.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Percentage.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Password.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/OwnerFieldSearchView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/OwnerEditList.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Owner.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Number.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/MultiSelectFieldSearchView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/MultiPicklist.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/MultiOwner.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/MasterDetail.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/ImageDetailView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Image.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/FileLocationType.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/FieldSearchView.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/Email.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/DocumentsFolder.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/DocumentsFileUpload.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/DateTime.tpl",
+				"/D/snow_dev/apps/SalesNow_Origin/layouts/vlayout/modules/snow/uitypes/DateFieldSearchView.tpl"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 110.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					".attr('data-flag', 'off')",
+					"panel",
+					"js",
+					"panel",
+					"pan",
+					"样式",
+					"cancelFn",
+					"okFn",
+					"this",
+					"cancel",
+					"now_Helper_Js.showConfirmationBo",
+					"考勤地点",
+					"change",
+					"clear",
+					"panTo",
+					"NaN",
+					"show",
+					"alert(",
+					"alert",
+					"thisInstance.app",
+					"var\\s?this\\w{2,5}\\s?",
+					"this\\w{3,6}\\s{1}=\\s{1}",
+					"this\\w{3,6}\\s{1}=\\s{1}=\\s?this",
+					"this\\w{3,6}\\s{1}\\=\\s{1}\\=\\s?this",
+					"this\\w{3,6}\\.",
+					"this",
+					"this.error",
+					"D:\\snow_dev\\apps\\SalesNow_Origin\\layouts\\vlayout\\modules\\Workattendancerlue\\EditView.tpl",
+					"mapShow",
+					"reange_c",
+					"$('textarea[name=\"address_c\"]')",
+					"$('input[name=\"range_c\"]')",
+					"$('input[name=\"latitude_c\"]')",
+					"$('input[name=\"longitude_c\"]')",
+					"this.map.PanTo(",
+					"redraw",
+					"forgetScope",
+					"forgetLat",
+					"forgetLng",
+					".toFixed(6)",
+					"scope",
+					"addMarker",
+					"rightHandleFn",
+					"您已经设置了考勤地点",
+					"console.log(",
+					"菜单的回调值",
+					"draging",
+					"markerNum[i].V && markerNum[i].V.tagName === 'path'",
+					".trim()",
+					"number",
+					"type",
+					"rightHandleFn",
+					"delMarker",
+					"fn",
+					"dragFn",
+					"markerFn",
+					"fn",
+					"addCircle",
+					"window.open(",
+					"Name",
+					"marker",
+					"this",
+					"this.",
+					"pointParam",
+					"point",
+					"lng",
+					"enableHighAccuracy",
+					"class=\"btn btn-success btnEdit creatAndsave\"",
+					"class=\"pull-right\"",
+					"row-fluid",
+					"haidiongxiao",
+					"table table-bordered blockContainer showInlineTable equalSplit detailview-table",
+					"form",
+					"</label>",
+					"div",
+					"related span12 marginLeftZero",
+					"id=\"rightPanel\"",
+					"viod",
+					"'",
+					"tr",
+					"checkoingInBox",
+					"'",
+					"ele",
+					"ctrl",
+					"ctrl+",
+					"rightNextPageBtn",
+					"btn-group",
+					"翻页",
+					"getCenter",
+					"());\n",
+					"   ",
+					"  ",
+					"\t\t",
+					"gc",
+					"keypress",
+					"银行",
+					"{$FIELD_MODEL->getFieldDataType()}",
+					"data-field-type",
+					"summary",
+					"accountField",
+					"priceValue",
+					"price",
+					"提交待审批区分保存新建和保存",
+					"var_dump",
+					"getReferenceList",
+					"var_dump",
+					"getReferenceList",
+					"popupReferenceModule",
+					"getInstance",
+					"unlinkDependencies",
+					"trash",
+					"delete",
+					"snow_Record_Model",
+					"snow_DeleteAjax_Action",
+					"mobileDelete",
+					"trim",
+					"()",
+					"val",
+					"trigger(",
+					"trigger",
+					"element",
+					"openPopUp",
+					"_data",
+					"data",
+					"flag",
+					"echo",
+					"always_populate",
+					"always_populate_raw_post_data"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
@@ -633,764 +840,18 @@
 			"groups":
 			[
 				{
-					"selected": 2,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Calendar.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3444,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/snow_dev/apps/SalesNow_Origin/modules/Calendar/views/Import.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5532,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions/Login.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5400,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4909,
-										4909
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												5058,
-												5059
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												4850,
-												4851
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2499.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 124,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										124,
-										124
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"default_dir": "D:\\snow_dev\\apps\\SalesNow_Origin",
-									"detect_indentation": false,
-									"line_numbers": false,
-									"output_tag": 2,
-									"result_base_dir": "",
-									"result_file_regex": "^([^ \t].*):$",
-									"result_line_regex": "^ +([0-9]+):",
-									"scroll_past_end": true,
-									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 60.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/snow_dev/apps/SalesNow_Origin/modules/Users/actions/Save.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13522,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/z-me/salesPlus/study/study/webpack/practice/webpack.production.config.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3700,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 130,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										130,
-										130
-									]
-								],
-								"settings":
-								{
-									"auto_name": "session: {",
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"default_dir": "D:\\snow_dev\\apps\\SalesNow_Origin",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 42.0
 			},
 			"input":
 			{
-				"height": 38.0
+				"height": 42.0
 			},
 			"layout":
 			{
@@ -1419,16 +880,20 @@
 			{
 				"height": 0.0
 			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
 			"output.unsaved_changes":
 			{
 				"height": 120.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,1357,904,433,1789",
+			"position": "0,2,3,-1,-1,-1,-1,1012,905,88,1790",
 			"project": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1466,7 +931,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 330.0,
+			"side_bar_width": 350.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
