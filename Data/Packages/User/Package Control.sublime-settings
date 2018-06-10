@@ -14,17 +14,23 @@
 		"CSS Format",
 		"CTags",
 		"Emmet",
+		"ESLint",
+		"Git",
 		"jQuery",
+		"jsfmt",
 		"JsFormat",
 		"Markdown Preview",
 		"OpenInBrowser",
 		"Package Control",
+		"React ES6 Snippets",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeServer",
 		"Tagify",
 		"TrailingSpaces",
-		"VueFormatter"
+		"Vue Syntax Highlight",
+		"VueFormatter",
+		"Vuejs Snippets"
 	]
 }
